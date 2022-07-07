@@ -1,0 +1,1 @@
+chrome-extension://jggobmlojchhlngdhmmdghgganciigof/css/translate_popup.css

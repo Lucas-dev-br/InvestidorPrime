@@ -1,0 +1,1 @@
+chrome-extension://jggobmlojchhlngdhmmdghgganciigof/js/common/languages.js
